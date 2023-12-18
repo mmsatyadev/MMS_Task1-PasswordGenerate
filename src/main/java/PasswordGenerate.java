@@ -151,10 +151,7 @@ public class PasswordGenerate extends javax.swing.JFrame {
          {
              passwordgen(8);
          }
-         else
-         {
-             passwordgen(4);
-         }
+         
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
